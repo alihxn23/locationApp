@@ -1,10 +1,8 @@
+# Location App
+
 this is my first mobile app made with flutter. 
 I made this app by following the crash course from Nick Manning. 
 Learned some things. layouts, widgets, styling, organization, callback functions in flutter. 
-
-# myapp
-
-A new Flutter project.
 
 ## Getting Started
 
